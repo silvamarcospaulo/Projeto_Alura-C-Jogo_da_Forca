@@ -56,7 +56,7 @@ void newWord(){
         exit(1);
     }
 
-    printf("A palavre deve conter ate SECRETWORD_SIZE letras,\n");
+    printf("A palavre deve conter ate 20 letras,\n");
     printf("caso a palavra tenha acento, nao o coloque,\n");
     printf("caso a palavra tenha 'c cedilha', coloque um 'c' normal,\n");
     printf("e deve ser escrita em letras maiusculas!\n");
@@ -357,7 +357,7 @@ void credits(){
 void shutDown(){
     lineBreak();
     printf("\nObrigado por jogar O Jogo da Forca!\n");
-    printf("Julho de SECRETWORD_SIZE23.\n");
+    printf("Julho de 2023.\n");
     printf("\n");
     printf("Desenvolvido por Marcos Paulo Silva.\n");
     printf("www.linkedin/in/souomarcos\n");
