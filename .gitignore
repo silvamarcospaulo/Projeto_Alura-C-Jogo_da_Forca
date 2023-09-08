@@ -1,8 +1,9 @@
 ### Pastas e Subpastas ###
-Praticando/
-output/
-.idea/
-.vscode/
+Praticando/*
+output/*
+.idea/*
+.vscode/*
 
 ###  Arquivos ###
 main.exe
+.gitignore
